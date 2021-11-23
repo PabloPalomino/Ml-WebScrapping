@@ -1,0 +1,31 @@
+ [
+      {
+        "nombre": "Raul",
+        "nota": 3.7
+        
+      },
+      {
+        "nombre": "Maria",
+        "nota": 5.7
+      },
+      {
+        "nombre": "Jose",
+        "nota": 7.7
+      },
+      {
+        "nombre": "Paco",
+        "nota": 6.7
+      },
+{
+        "nombre": "Lucia",
+        "nota": 8.7
+      },
+{
+        "nombre": "Laura",
+        "nota": 6.7
+      },
+{
+        "nombre": "Manolo",
+        "nota": 9
+      }
+    ]
